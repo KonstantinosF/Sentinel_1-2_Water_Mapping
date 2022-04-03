@@ -6,6 +6,9 @@ This project experiments in water mapping using Sentinel 2 and Sentinel 1 data e
 
 <h2> Data Ingestion </h2>
 
-<h2> Data Preprocessing </h2>
+<h2> Data Processing </h2>
 
-<h2> Data Analysis </h2>
+
+
+<h3> Acknowledgements </h3> 
+
