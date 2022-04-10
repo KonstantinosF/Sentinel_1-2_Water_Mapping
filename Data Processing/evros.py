@@ -2,7 +2,7 @@
 """
 Created on Tue Aug  3 15:40:02 2021
 
-@author: Kostas-Geosystems
+@author: KonstantinosF
 """
 import matplotlib.colors as colors
 import matplotlib.image as mpimg
