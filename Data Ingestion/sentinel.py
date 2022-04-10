@@ -2,7 +2,7 @@
 """
 Created on Wed Jul 21 15:15:41 2021
 
-@author: Kostas-Geosystems
+@author: KonstantinosF
 This file contains all the necessary costum made function in order to retrieve a list of available tiles
 """
 from sentinelsat import SentinelAPI, read_geojson, geojson_to_wkt
