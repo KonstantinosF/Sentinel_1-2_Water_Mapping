@@ -15,7 +15,6 @@ This folder contains four files with the Jupyter notebook <b>"Data_Ingestion.ipy
 
 <h2> Data Processing </h2>
 
-Ο δείκτης βλάστησης NDVI για τα φασματικά κανάλια του Sentinel 2 ορίζεται ως εξής:
 The NDVI index for Sentinel 2 spectral channels is defined as follows:
   - NDVI∶=(NIR - RED)/(NIR + RED)
   - NDVI∶= (B8 - B4)/(B8 +  B4)
