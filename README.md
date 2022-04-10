@@ -5,6 +5,11 @@ The repo is consited of 2 folders. The first one contains a jupyter notebook and
 This project experiments in water mapping using Sentinel 2 and Sentinel 1 data either separately or synergistically. <b> OnGoing Project </b>
 
 <h2> Data Ingestion </h2>
+This folder contains four files with the Jupyter notebook <b>"Data_Ingestion.ipynb"</b> being the main body.
+- Data Ingestion.ipynb
+- basemaps.py
+- credential.ini
+- sentinel.py
 
 <h2> Data Processing </h2>
 
