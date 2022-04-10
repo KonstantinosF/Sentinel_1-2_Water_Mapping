@@ -14,6 +14,8 @@ This folder contains four files with the Jupyter notebook <b>"Data_Ingestion.ipy
 </ul>
 
 <h2> Data Processing </h2>
+Step 1: Pre-Process
+Sentinel 2 images are cropped within the area of interest and spectral bands are resampled to 10 meters spatial resolution. For Sentinel 1 images a geometric correction is neccesary using orbit file and terrain correction using a digital elevation model. Additionally, Sentinel 1 images get calibrated, filtered for speckles , converted to decibel units and cropped within the area of interest.
 
 The NDVI index for Sentinel 2 spectral channels is defined as follows:
   - NDVI∶=(NIR - RED)/(NIR + RED)
