@@ -2,7 +2,7 @@
 """
 Created on Wed Jul 21 15:24:45 2021
 
-@author: Kostas-Geosystems
+@author: KonstantinosF
 """
 import folium                                 # visualization
 from folium import plugins                    # visualization
