@@ -13,6 +13,9 @@ This folder contains four files with the Jupyter notebook <b>"Data_Ingestion.ipy
   <li>sentinel.py</li>
 </ul>
 
+![image](https://user-images.githubusercontent.com/23013328/162620579-0863768a-5781-4352-80df-44b209f171c6.png)
+
+
 <h2> Data Processing </h2>
 Step 1: Pre-Process
 
