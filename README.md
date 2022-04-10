@@ -6,10 +6,10 @@ This project experiments in water mapping using Sentinel 2 and Sentinel 1 data e
 
 <h2> Data Ingestion </h2>
 This folder contains four files with the Jupyter notebook <b>"Data_Ingestion.ipynb"</b> being the main body.
-- Data Ingestion.ipynb
-- basemaps.py
-- credential.ini
-- sentinel.py
+  - Data Ingestion.ipynb
+  - basemaps.py
+  - credential.ini
+  - sentinel.py
 
 <h2> Data Processing </h2>
 
