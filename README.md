@@ -15,6 +15,15 @@ This folder contains four files with the Jupyter notebook <b>"Data_Ingestion.ipy
 
 <h2> Data Processing </h2>
 
+Ο δείκτης βλάστησης NDVI για τα φασματικά κανάλια του Sentinel 2 ορίζεται ως εξής:
+The NDVI index for Sentinel 2 spectral channels is defined as follows:
+  NDVI∶=(NIR - RED)/(NIR + RED)
+  NDVI∶= (B8 - B4)/(B8 +  B4)
+
+The mNDWI water index for Sentinel 2 spectral channels is defined as follows:
+  mNDWI∶= (Green - Middle Infrared)/(Green + Middle Infrared)
+  mNDWI∶= (B3 - B12)/(B3 + B12)
+
 
 
 <h3> Acknowledgements </h3> 
