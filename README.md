@@ -9,9 +9,10 @@ This folder contains four files with the Jupyter notebook <b>"Data_Ingestion.ipy
 <ul>
   <li>Data Ingestion.ipynb</li>
   <li>basemaps.py</li>
-  <li>credential.ini</li>
+  <li>credential.ini - In this file you need to write your credentials for Copernicus open access hub (https://scihub.copernicus.eu/)</li>
   <li>sentinel.py</li>
 </ul>
+
 
 ![image](https://user-images.githubusercontent.com/23013328/162620579-0863768a-5781-4352-80df-44b209f171c6.png)
 
