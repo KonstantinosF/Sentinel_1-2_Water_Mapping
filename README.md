@@ -61,8 +61,9 @@ Produce Classification Maps using Sentinel 1
 - Subset
 - Applying Kmeans
 - Saving the product on local disk
-Align Classification Maps
-Create the Final Probability Map
+
+- Align Classification Maps
+- Create the Final Probability Map
 
 
 
