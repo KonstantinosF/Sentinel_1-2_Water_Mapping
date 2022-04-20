@@ -39,6 +39,32 @@ The mNDWI water index for Sentinel 2 spectral channels is defined as follows:
   - mNDWI∶= (Green - Middle Infrared)/(Green + Middle Infrared)
   - mNDWI∶= (B3 - B12)/(B3 + B12)
 
+Sentinel 2
+Read Products
+Produce Classification Maps from Sentinel 2
+-subset the product
+- resample the product to 10m spatial resolution
+- calculate the first principal component
+- calculate the NDVI and mNDVI
+- stack the pca , ndvi and mndvi into a single product
+- implement Kmeans unsupervised classification
+- Wite the classification map on the local disk
+
+Sentinel 1
+Read Products
+Produce Classification Maps using Sentinel 1
+- Apply orbit file
+- Callibration
+- Speckle Filtering
+- Linear to dB
+- Terrain Correction
+- Subset
+- Applying Kmeans
+- Saving the product on local disk
+Align Classification Maps
+Create the Final Probability Map
+
+
 
 
 # <h3> Acknowledgements </h3> 
