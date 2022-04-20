@@ -37,7 +37,7 @@ The mNDWI water index for Sentinel 2 spectral channels is defined as follows:
 
 <h3> Acknowledgements </h3> 
 
-<cite>Serco Italia SPA (2020). Sentinel-1 processing using snappy (version 1.1). Retrieved from RUS
+<cite> [1]Serco Italia SPA (2020). Sentinel-1 processing using snappy (version 1.1). Retrieved from RUS
 Lectures at https://rus-copernicus.eu/portal/the-rus-library/learn-by-yourself/ </cite>
 
-
+<cite> [2] Copernicus Snap Software https://step.esa.int/main/download/snap-download/ </cite>
