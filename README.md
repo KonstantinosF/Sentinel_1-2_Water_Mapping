@@ -18,6 +18,10 @@ This folder contains four files with the Jupyter notebook <b>"Data_Ingestion.ipy
 
 
 <h2> Data Processing </h2>
+Inside the folder data processing the user will find the following files:
+- Probability_Map_S1_S2.ipynb - This jupyter notebook is the main body of code which reads Sentinel images calculates the water masks aligns them and then creates a probability layer.
+- evros.py - In this python file some custom made functions are placed.
+- sentinels.ini - In this file write the path where the sentinel products can be found on the local machine.
 <b>Step 1: Pre-Process</b>
 
 Sentinel 2 images are cropped within the area of interest and spectral bands are resampled to 10 meters spatial resolution. For Sentinel 1 images a geometric correction is neccesary using orbit file and terrain correction using a digital elevation model. Additionally, Sentinel 1 images get calibrated, filtered for speckles, converted to decibel units and cropped within the area of interest.
