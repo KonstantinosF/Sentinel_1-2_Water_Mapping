@@ -68,7 +68,6 @@ Produce Classification Maps using Sentinel 1
 
 # <h3> Validation </h3>
 
-
 # <h3> Acknowledgements </h3> 
 
 <cite> [1]Serco Italia SPA (2020). Sentinel-1 processing using snappy (version 1.1). Retrieved from RUS
