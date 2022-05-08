@@ -67,6 +67,7 @@ Produce Classification Maps using Sentinel 1
 
 
 # <h3> Validation </h3>
+JRC (European Commission Joint Research Center) surface water dataset
 
 # <h3> Acknowledgements </h3> 
 
