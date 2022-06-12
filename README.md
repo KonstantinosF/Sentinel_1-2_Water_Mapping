@@ -74,6 +74,8 @@ Produce Classification Maps using Sentinel 1
 # <h3> Validation </h3>
 JRC (European Commission Joint Research Center) surface water dataset
 
+The European Commission's Joint Research Center initiated the development of a water database within the framework of the Copernicus Programme. The database covers the temporal distribution of water surfaces at a global scale for almost the entire last 4 decades, providing significant statistics on the extent and change of water bodies. The observations produced from Landsat imagery, supporting applications like water resources management, climate modeling and vital information for decision making. For every area of interest the user can download a set of geotiffs raster products covering six layers of information illustrated in the table below:
+
 # <h3> Acknowledgements </h3> 
 
 <cite> [1]Serco Italia SPA (2020). Sentinel-1 processing using snappy (version 1.1). Retrieved from RUS
