@@ -13,9 +13,9 @@ This project is experimenting in water mapping using Sentinel 2 and Sentinel 1 d
 This folder contains four files with the Jupyter notebook <b>"Data_Ingestion.ipynb"</b> being the main body.
 <ul>
   <li><b>Data Ingestion.ipynb</b> - This is the main body from which data ingestion process is running.</li>
-  <li><b>basemaps.py</b> - This file contains some necessary funcntions fro rendering google maps</li>
-  <li><b>credential.ini</b> - In this file you need to write your credentials for Copernicus open access hub (https://scihub.copernicus.eu/)</li>
-  <li><b>sentinel.py</b> - This file contains some custom made functions</li>
+  <li><b>basemaps.py</b> - This file contains some necessary funcntions for rendering google maps.</li>
+  <li><b>credential.ini</b> - In this file you need to write your credentials for Copernicus open access hub (https://scihub.copernicus.eu/).</li>
+  <li><b>sentinel.py</b> - This file contains some custom made functions.</li>
 </ul>
 
 
