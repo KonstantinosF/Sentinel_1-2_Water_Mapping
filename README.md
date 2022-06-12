@@ -2,8 +2,8 @@
 <p>In this repository I am sharing a pipeline I have created to ingest, preprocess and finaly create an analysis ready products based on Sentinel 1 and Sentinel 2 images.
 The repo is consited of 2 folders. 
 <ul>
-<li>The first one contains a jupyter notebook and a set of custom functions in order to create a list of available Sentinel 1 and Sentinel 2 images and then download them on our local machine.</li>
-<li>The second folder contains a jupyter noteboon as the main body and the output is a new image processed and cleaned indicating where water is appears on the image.</li>
+  <li>The first folder <b>"Data Ingestion"</b> contains a jupyter notebook and a set of custom functions in order to create a list of available Sentinel 1 and Sentinel 2 images and then download them on our local machine.</li>
+  <li>The second folder <b>"Data Process"</b> contains a jupyter noteboon as the main body and the output is a new image processed and cleaned indicating where water is appears on the image.</li>
 </ul>
 The result is a binary image seperating water from background, while it also can be used to create a probability water map in case of using time series of images. The project has been build in python environment making use of modules like Snappy, GDAL, SentinelSat and Folium.</p>
 
