@@ -75,6 +75,15 @@ Produce Classification Maps using Sentinel 1
 JRC (European Commission Joint Research Center) surface water dataset
 
 <p>The European Commission's Joint Research Center initiated the development of a water database within the framework of the Copernicus Programme. The database covers the temporal distribution of water surfaces at a global scale for almost the entire last 4 decades, providing significant statistics on the extent and change of water bodies. The observations produced from Landsat imagery, supporting applications like water resources management, climate modeling and vital information for decision making. For every area of interest the user can download a set of geotiffs raster products covering six layers of information illustrated in the table below:</p>
+<ol>
+  <li>Occurrence: 
+The Global Surface Water Occurrence shows where surface water occurred between 1984 and 2015 and provides information concerning overall water dynamics. This product captures both the intra and inter-annual variability and changes.</li>
+  <li>Occurrence change intensity: The Global Surface Water Occurrence Change Intensity map provides information on where surface water occurrence increased, decreased or remained the same between 1984-1999 and 2000-2020. Both the direction of change and its intensity are documented.</li>
+  <li>Seasonality: The Global Surface Water Seasonality map provides information concerning the intra-annual behaviour of water surfaces for a single year (2020) and shows permanent and seasonal water and the number of months water was present.</li>
+  <li> Recurrence: The Global Surface Water Recurrence provides information concerning the inter-annual behaviour of water surfaces and captures the frequency with which water returns from year to year. </li>
+  <li> Transitions: The Global Surface Water Transitions map provides information on the change in surface water seasonality between the first and last years (between 1984 and 2020) and captures changes between the three classes of not water, seasonal water and permanent water. </li>
+  <li> Maximum water extent: The Global Surface Water Maximum Water Extent shows all the locations ever detected as water over a 35-year period (1984-2019).</li>
+</ol>
 
 # <h3> Acknowledgements </h3> 
 
