@@ -53,7 +53,7 @@ Produce Classification Maps from Sentinel 2
 - calculate the NDVI and mNDVI
 - stack the pca , ndvi and mndvi into a single product
 - implement Kmeans unsupervised classification
-- Wite the classification map on the local disk
+- Write the classification map on the local disk
 
 Sentinel 1
 Read Products
